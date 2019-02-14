@@ -1,5 +1,5 @@
 # vfa-workshop-exercise-merge-automacally-vintt
-AAAAA
+aaaaa
 		
 BBBBB		
 
